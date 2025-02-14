@@ -25,6 +25,11 @@ Stop Odoo
 docker compose down
 ```
 
+Site
+```
+http://localhost:10017/
+```
+
 Odoo master password:
 ```
 minhng.info
