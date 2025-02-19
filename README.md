@@ -9,7 +9,7 @@ apt  install docker.io docker-compose -y
 
 Descargar repositorio
 ```
-git clone thttps://github.com/GhostSlayer-maker/odoo17-belephantit-preprod
+git clone https://github.com/GhostSlayer-maker/odoo17-belephantit-preprod
 ```
 
 Entrar al directorio
