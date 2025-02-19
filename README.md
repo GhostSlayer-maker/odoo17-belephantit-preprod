@@ -2,35 +2,38 @@
 # Docker Odoo 17.0 With PostgreSQL 16
 by Angel
 
-First install docker-compose
+Primero instalar docker si no lo tiene
 ```
 apt  install docker.io docker-compose -y
 ```
 
-Download repository
+Descargar repositorio
 ```
-git clone https://github.com/GhostSlayer-maker/odoo-17-docker-compose.git
+git clone thttps://github.com/GhostSlayer-maker/odoo17-belephantit-preprod
 ```
 
-Lift docker
+Entrar al directorio
 ```
 cd odoo-17-docker-compose
+```
+Iniciar docker por cualquiera de las vias que aportan diferentes fucionalidades
+```
 docker compose up -d
 docker compose up -d --build
 docker compose up --build
 ```
 
-Stop Odoo
+Detener odoo
 ```
 docker compose down
 ```
 
-Site
+Sitio local
 ```
 http://localhost:10017/
 ```
 
-Odoo master password:
+Contraseña maestra de Odoo:
 ```
 minhng.info
 ```
