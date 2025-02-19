@@ -14,7 +14,7 @@ git clone https://github.com/GhostSlayer-maker/odoo17-belephantit-preprod
 
 Entrar al directorio
 ```
-cd odoo-17-docker-compose
+cd odoo17-belephantit-preprod
 ```
 Iniciar docker por cualquiera de las vias que aportan diferentes fucionalidades
 ```
